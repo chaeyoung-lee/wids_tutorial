@@ -8,6 +8,6 @@ In recent years, speech data is receiving spotlight for various applications in 
 
 ## Reference
 
-[Speech Commands dataset (TensorFlow)](https://www.tensorflow.org/tutorials/sequences/audio_recognition)
-[CycleGAN TensorFlow](https://github.com/xhujoy/CycleGAN-tensorflow)
-[AlexNet Finetuning TensorFlow](https://github.com/dgurkaynak/tensorflow-cnn-finetune/tree/master/alexnet)
+- [Speech Commands dataset (TensorFlow)](https://www.tensorflow.org/tutorials/sequences/audio_recognition)
+- [CycleGAN TensorFlow](https://github.com/xhujoy/CycleGAN-tensorflow)
+- [AlexNet Finetuning TensorFlow](https://github.com/dgurkaynak/tensorflow-cnn-finetune/tree/master/alexnet)
