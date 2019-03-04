@@ -227,9 +227,9 @@ class cyclegan(object):
         init_op = tf.global_variables_initializer()
         self.sess.run(init_op)
         if args.which_direction == 'AtoB':
-            sample_files = glob('./datasets/{}/*.jpg'.format(os.path.join(self.dataset_dir, label)))
+            sample_files = glob('./datasets/{}/*.*'.format(os.path.join(self.dataset_dir, label)))
         elif args.which_direction == 'BtoA':
-            sample_files = glob('./datasets/{}/*.jpg'.format(os.path.join(self.dataset_dir, label)))
+            sample_files = glob('./datasets/{}/*.*'.format(os.path.join(self.dataset_dir, label)))
         else:
             raise Exception('--which_direction must be AtoB or BtoA')
 
