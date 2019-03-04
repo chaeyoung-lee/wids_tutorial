@@ -1,7 +1,7 @@
 # wids_tutorial
 
 - This repo was created for WiDS tutorial participants.
-- Please refer to [WiDS TLV](https://widstlv.com/chae-young-lee/).
+- Please refer to [WiDS TLV](https://widstlv.com/chae-young-lee/) and [slides](https://docs.google.com/presentation/d/1MFTZMGP1Ub9AXWTaTwqiDTwtLC8fpOARwo7kNOCpXDk/edit?usp=sharing).
 
 ## Tutorial – Dealing with the Lack of Audio Data
 
